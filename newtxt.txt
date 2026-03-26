@@ -1,0 +1,1 @@
+This is my first Git assignment. I have initialized a repository and this is my first commit.
